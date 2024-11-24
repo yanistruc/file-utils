@@ -2,8 +2,9 @@
 Un moyen de créer/déplacer facilement des fichiers en Java
 
 Utilisation : 
-createfile(<Type : file/folder>, <Emplacement>, <Nom>)
-MoveFile(<Emplacement>, <Destination>, <Nom>)
+createfile(<Type : file/folder>, <Emplacement>, <Nom>);
+
+MoveFile(<Emplacement>, <Destination>, <Nom>);
 
 Exemples:
 //creer un fichier nommé blackzombie.txt dans /home/yanis_truc/Bureau/
